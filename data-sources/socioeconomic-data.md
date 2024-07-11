@@ -43,20 +43,24 @@ For these reasons, the social sciences are considered a crucial aspect to deal w
 
 ### Existing approaches
 
-The pandemic of COVID-19 has shown the impact of socioeconomic factors in terms of governance and state-citizens relations when it comes to an efficient response of science (to deal with infectious diseases) for the benefit of the society. 
+Socioeconomic factors have been demonstrated to have impacts on health outcomes in various ways, both at the individual and area/group level. This  also become evident during the COVID-19 pandemic. For example, socioeconomic factors can affect individual exposure to health determinants and health care use/access (determining how likely someone is to contract and seek treatment for a disease); how socioeconomic groups are affected differently by the diseases outbreaks (e.g. differences in exposure and impact among richer and poorer groups); or how governance and state-citizens relations (determining the efficiency of governments responses to infectious disease outbreaks).
 
 Indicatively, there has been a considerable number of social surveys dealing with the pandemic and its consequences in several aspects of the everyday life of citizens at global and EU level. Notably, compared to previous pandemics, there is a remarkable distinction: the accessibility of information and the advancements in digitization, including statistical data, have empowered citizens to gain a better understanding of the pandemic's scope and severity. Concurrently, these resources have also provided citizens with insights into the scientific community's relentless efforts and achievements to deal with diseases.
 
-From the demography perspective, there have been surveys and related publications proving the relation of
+From the demography perspective, there have been surveys and related publications proving the relation of:
 
 - household structures and housing conditions ([Giorgi & Boertien 2021](https://doi.org/10.1186/s41118-021-00124-8));
 - the role of nursing homes, especially during the first wave ([Bernandi et al. 2021](https://doi.org/10.1186/s41118-021-00119-5));
 - the role of gender or socioeconomic status ([Horton 2020](https://pubmed.ncbi.nlm.nih.gov/32979964/)).
 
-From the political science, psychology or sociology sciences’ perspective, surveys that studied the effect of conspiracy theories regarding vaccines, propagation of virus and others, have shown clusters of people that relate resistance to vaccines with respect to personal ideology, adherence to conspiracy theories or that lower level of education, religiosity, conspiracy thinking can be an indicator for vaccine resistance. 
+From the political science, psychology, and sociological science perspective, surveys that studied the effect of conspiracy theories regarding vaccines, propagation of virus and others, have shown clusters of people that relate resistance to vaccines with respect to personal ideology, adherence to conspiracy theories or that lower level of education, religiosity, conspiracy thinking can be an indicator for vaccine resistance. Notably, socioeconomic status (SES) is often cited to affect e.g.:
+
+- Health outcomes (e.g. [Steptoe & Zaninotto 2020](https://doi.org/10.1073/pnas.1915741117))
+- Access to health care (e.g. [Chetty et al. 2016](https://doi.org/10.1186/s12905-022-01716-y)
+- Uptake of health interventions (e.g. [Pouliasi et al. 2023](https://doi.org/10.3390%2Fvaccines11081301)
 
 Even industrial advanced societies proved that they were not well-prepared to combat the devastated pandemic. Lessons learnt should focus on how to adjust health systems responses but also to find ways to strengthen trust among citizens building on resilience, access to information and services for all. 
-- Examples of successful uses of social science in infectious diseases research (e.g. ([this](https://madoc.bib.uni-mannheim.de/55629/), or e.g. [papers describing this](https://link.springer.com/content/pdf/10.1007/s13194-021-00416-y.pdf)
+- Examples of successful uses of social science in infectious diseases research (e.g. [Blom et al. 2020](https://madoc.bib.uni-mannheim.de/55629/) or [Lohse & Canali 2021])(https://link.springer.com/content/pdf/10.1007/s13194-021-00416-y.pdf)
 - Journals, outlets, platforms, communities etc. for related research - e.g. [BY-COVID Zenodo Community](https://zenodo.org/communities/bycovid/?page=1&size=20), [COVID-19 Social Science working group (who.int)](https://www.who.int/publications/m/item/covid-19-social-science-working-group), relevant [FAIRsharing resources](https://fairsharing.org/3494)
 
 
